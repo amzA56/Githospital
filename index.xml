@@ -1,0 +1,12 @@
+<?xml version ="1.0" encoding="UTF-8" ?>
+<hospitals xmlns:j ="https://hospitals.aku.edu/Pages/default.aspx" 
+xmlns:h="https://www.jpmc.edu.pk">
+<j:dr category="doctor">
+<j:name>dr.riya</j:name> 
+</j:dr>
+<h:patient category="patient">
+<h:name>Sameer</h:name> 
+</h:patient>
+</hospitals>
+
+
